@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning on AGH University of Krakow
+- 🔭 I’m currently working on developing programing and data analysing skills
+- ⚡ My goal is to get good enough to make money from passion
 <!--
 **QuackieTheDuck/QuackieTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
