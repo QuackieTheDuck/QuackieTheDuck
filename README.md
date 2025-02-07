@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning C/C++, Python and R
-- 🤔 I'm not wworking on any big project right now, only small ones to practise coding skills
+- 🌱 I’m currently learning C/C++ and Python
 - 🔭 I’m currently working on developing programing and data analysing skills
 - ⚡ My goal is to get good enough to make money from passion
 <!--
