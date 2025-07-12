@@ -2,7 +2,7 @@
 - 🌱 Learning C/C++ and Python
 - 🔭 Working on developing programing and data analysing skills
 - ⚡ My goal is to get my first dev job
-- 💬 I'd love to work as embedded systems engineer
+- 💬 I want to work as embedded systems engineer one day
 <!--
 **QuackieTheDuck/QuackieTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
