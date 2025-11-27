@@ -1,8 +1,7 @@
 ## Hi there 👋
 - 🌱 Learning C/C++ and Python
-- 🔭 Working on developing programing and Cybersecurity skills
-- ⚡ My goal is to get my first IT job
-- 💬 My dream is to work in IT field for the rest of my life
+- 🔭 Right now I'm in the middle of two courses: Practical Python and Practical frontend security both by Securitum
+- ⚡ In future I would like to work in IT
 <!--
 **QuackieTheDuck/QuackieTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
