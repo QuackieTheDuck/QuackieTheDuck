@@ -1,7 +1,8 @@
 ## Hi there 👋
-- 🌱 Learning C/C++ and Python
-- 🔭 Right now I'm in the middle of two courses: Practical Python and Practical frontend security both by Securitum
-- ⚡ In future I would like to work in IT
+-  C/C++ and Python. JavaScript in progress...
+-  Focusing on low-level mixed with electronics
+-  I would love to work as embedded systems developer
+- Want to learn: Assembly, bare metal
 <!--
 **QuackieTheDuck/QuackieTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
