@@ -1,19 +1,28 @@
-## Hi there 👋
--  C/C++ and Python. JavaScript in progress...
--  Focusing on low-level mixed with electronics
--  I would love to work as embedded systems developer
-- Want to learn: Assembly, bare metal
-<!--
-**QuackieTheDuck/QuackieTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Low Level & Embedded Systems enthusiast**
 
-Here are some ideas to get you started:
+I focus on bridge between hardware and software, specializing in register-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack:
+- **Languages**: C/C++ (Embedded & Desktop), Python (CLI/GUI Automation & Tooling), Bash
+- **Workflow**: VS Code, PyScripter, Sublime Text, Git, Dev-C++, Arduino IDE, Hex editors(HxD, ImHex)
+- **Architecture**: AVR(ATmega),
+- **Hardware Tools**: Logic Analyzers, Multimeters, Oscilloscopes, Soldering
+
+### Current Projects:
+
+1. AVR Data Acquisition
+- **Focus:** High-efficiency ADC sampling and asynchronous data transmission.
+  
+2. Full-Stack Embedded System (STM32 & Python)
+*Integrated control and diagnostic ecosystem.*
+- **Firmware:** Bare-metal implementation (Cortex-M) using direct register access, ISR, and DMA.
+- **Peripherals:** UART, PWM, ADC, I2C, LCD.
+- **Communication:** Custom binary-based protocol with hardware-configurable endianness.
+- **PC Tooling:** Real-time diagnostics and control interface developed in Python (CLI-based).
+  
+---
+
+### Contact:
+[LinkedIn](www.linkedin.com/in/robert-drozdek)
