@@ -1,4 +1,4 @@
-** Low Level & Embedded Systems enthusiast**
+**Low Level & Embedded Systems enthusiast**
 
 I focus on bridge between hardware and software, specializing in register-level programming.
 
