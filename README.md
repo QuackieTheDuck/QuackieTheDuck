@@ -7,7 +7,7 @@ I focus on bridge between hardware and software, specializing in register-level 
 ### Tech Stack:
 - **Languages**: C/C++ (Embedded & Desktop), Python (CLI/GUI Automation & Tooling), Bash
 - **Workflow**: VS Code, PyScripter, Sublime Text, Git, Dev-C++, Arduino IDE, Hex editors(HxD, ImHex)
-- **Architecture**: AVR(ATmega),
+- **Architecture**: AVR(ATmega), STM32 (ARM-based)
 - **Hardware Tools**: Logic Analyzers, Multimeters, Oscilloscopes, Soldering
 
 ### Current Projects:
